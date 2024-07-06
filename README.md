@@ -1,6 +1,4 @@
-# Project1
-
-Lede Program, Project 1: Scraping wife carrying
+# Lede Program, Project 1: Scraping wife carrying
 
 In this small project I scraped an unordered list from a wife carrying Wikipedia article. https://en.wikipedia.org/wiki/Wife-carrying I did scraping, cleaning and analyzing in VS Code and used e.g. these tools and libraries: pandas, requests, BeautifulSoup, re. See the whole process in my notebook (linkki). 
 I wrote a short story of my findings (linkki) and used Datawrapper to create two graphics from my analysis. To be able to publish the piece, I needed to use html and little css.
